@@ -15,6 +15,7 @@ public class Lab3Greetings {
 
     /**
      * This program gets user's name and return it, and greets back
+     * 
      */
     public static void main(String[] args){
         String userName;
